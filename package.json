@@ -1,6 +1,6 @@
 {
   "name": "akid-save-svg-as-png",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Convert a browser SVG to PNG or dataUri",
   "main": "lib/saveSvgAsPng.js",
   "scripts": {
